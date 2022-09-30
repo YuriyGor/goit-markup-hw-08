@@ -34,6 +34,12 @@
     color: var(--accent-color);
 }
 
+li {
+    list-style-type: none;
+    /* Убираем маркеры */
+  }
+  
+
 // Стилі для таблеток - 768px
 
 @media screen and (min-width: 768px) {

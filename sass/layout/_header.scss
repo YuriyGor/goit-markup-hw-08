@@ -1,3 +1,22 @@
+.site-nav {
+    display: none;
+  }
+
+.header-contact {
+    display: none;
+}
+
+.open-mobile-menu-btn {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+}
+
+.open-mobile-menu-btn__icon {
+    width: 40px;
+    height: 40px;
+}
+
 // .header {
 //     border-bottom: 1px solid var(--border-header-color);
 // }

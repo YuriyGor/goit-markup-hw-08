@@ -25,9 +25,17 @@
     height: 40px;
 }
 
-// .header {
-//     border-bottom: 1px solid var(--border-header-color);
-// }
+.header {
+    height: 60px;
+    border-bottom: 1px solid var(--border-header-color);
+}
+
+.site-nave__link.current {
+    color: var(--accent-color);
+}
+
+
+
 // .header-container {
 //     display: flex;
 //     align-items: center;

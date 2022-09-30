@@ -447,6 +447,15 @@ button {
   height: 40px;
 }
 
+.header {
+  height: 60px;
+  border-bottom: 1px solid var(--border-header-color);
+}
+
+.site-nave__link.current {
+  color: var(--accent-color);
+}
+
 .hero {
   background-color: var(--hero-gradient);
   height: 600px;

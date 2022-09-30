@@ -125,7 +125,14 @@ button {
   display: none;
 }
 
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .open-mobile-menu-btn {
+  line-height: 0;
   border: none;
   background-color: transparent;
   padding: 0;

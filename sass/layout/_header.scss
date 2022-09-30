@@ -38,7 +38,7 @@ li {
     list-style-type: none;
     /* Убираем маркеры */
   }
-  
+
 
 // Стилі для таблеток - 768px
 
@@ -88,9 +88,9 @@ li {
     .header-contact__item:not(:last-child) {
     margin-bottom: 10px;
     }
-    .header-contact__icon-envelope {
+    .header-icon {
     margin-right: 8px;
-    fill: currentColor;
+    // fill: currentColor;
     transform: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     .header-contact__link {

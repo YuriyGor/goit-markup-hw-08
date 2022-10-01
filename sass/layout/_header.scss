@@ -48,6 +48,23 @@
     }
 }
 
+.logo-header {
+    color: var(--accent-color);
+    font-family: var(--secondary-font-family);
+
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.studio-black {
+    color: var(--black-color);
+}
+
 .icon-envelope {
     margin-right: 10px;
     fill: currentColor;    

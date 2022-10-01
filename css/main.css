@@ -1,4 +1,3 @@
-@charset "UTF-8";
 :root {
   --primary-text-color:#757575;
   --secondary-text-color:#212121;
@@ -53,6 +52,7 @@ ul {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
+  list-style: none;
 }
 
 img {
@@ -455,11 +455,6 @@ button {
 
 .site-nav__link.current {
   color: var(--accent-color);
-}
-
-.li {
-  list-style-type: none;
-  /* Убираем маркеры */
 }
 
 .header-link {

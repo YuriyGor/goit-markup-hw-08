@@ -161,6 +161,23 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
+
+.logo-footer {
+    color: var(--accent-color);
+
+    display: inline-block;
+    margin-bottom: 20px;
+
+    font-family: var(--secondary-font-family);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+}
+.studio-white {
+    color: var(--white-color);
+}
+
 .contacts {
     margin-top: 9px;
     &:first-child {

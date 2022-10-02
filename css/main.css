@@ -1199,12 +1199,17 @@ button {
 }
 
 .map {
-  color: var(--white-color-footer-link);
+  color: var(--white-color);
   line-height: 1.71;
+  text-decoration: none;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .map:hover, .map:focus {
   color: var(--accent-color);
+}
+
+.link {
+  color: var(--white-color-footer-link);
 }
 
 .social-list {

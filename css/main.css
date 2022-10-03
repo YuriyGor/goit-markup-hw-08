@@ -445,6 +445,7 @@ button {
   border: none;
   background-color: transparent;
   padding: 0;
+  margin: 0;
 }
 
 .open-mobile-menu-btn__icon {
@@ -1284,4 +1285,5 @@ button {
   position: absolute;
   top: 13px;
   left: 148px;
+  fill: var(--white-color);
 }/*# sourceMappingURL=main.css.map */
